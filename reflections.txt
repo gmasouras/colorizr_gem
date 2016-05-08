@@ -1,0 +1,11 @@
+- How long did you spend working on this project?
+
+- About 4 to 5 hours
+
+- What was the most rewarding challenge you conquered?
+
+- Understand the metaprogramming concepts (Not pretty sure till now that I do    understand)
+
+- Where do you still have room to grow?
+
+- Deeply undestarding the structure of the Ruby programming language
