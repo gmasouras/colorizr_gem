@@ -1,3 +1,10 @@
+- How does your gem take advantage of Ruby’s metaprogramming capabilities?
+
+- By installing the colorizr gem and calling the method create_colors,
+  taking advantage of the Ruby’s metaprogramming capabilities there will be created
+  nine more methods with color names. These methods can be used to any string object
+  we wish colorise on the terminal app.
+
 - How long did you spend working on this project?
 
 - About 4 to 5 hours
